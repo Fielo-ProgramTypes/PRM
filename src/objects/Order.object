@@ -5,9 +5,9 @@
         <deleteConstraint>SetNull</deleteConstraint>
         <externalId>false</externalId>
         <label>Member</label>
-        <referenceTo>Member</referenceTo>
+        <referenceTo>FieloPLT__Member__c</referenceTo>
         <relationshipLabel>Members</relationshipLabel>
-        <relationshipName>Members</relationshipName>
+        <relationshipName>FieloPRM_Members</relationshipName>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Lookup</type>
