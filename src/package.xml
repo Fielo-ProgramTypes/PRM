@@ -5,15 +5,15 @@
 		<name>ApexTrigger</name>
 	</types>
 	<types>
-		<members>Lead.Member__c</members>
-		<members>Opportunity.Member__c</members>
-		<members>Order.Member__c</members>
-		<members>FieloPLT__Tracker__c.Lead__c</members>
-		<members>FieloPLT__Transaction__c.Lead__c</members>
-		<members>FieloPLT__Tracker__c.Opportunity__c</members>
-		<members>FieloPLT__Transaction__c.Opportunity__c</members>
-		<members>FieloPLT__Tracker__c.Order__c</members>
-		<members>FieloPLT__Transaction__c.Order__c</members>
+		<members>Lead.FieloPRM_Member__c</members>
+		<members>Opportunity.FieloPRM_Member__c</members>
+		<members>Order.FieloPRM_Member__c</members>
+		<members>FieloPLT__Tracker__c.FieloPRM_Lead__c</members>
+		<members>FieloPLT__Transaction__c.FieloPRM_Lead__c</members>
+		<members>FieloPLT__Tracker__c.FieloPRM_Opportunity__c</members>
+		<members>FieloPLT__Transaction__c.FieloPRM_Opportunity__c</members>
+		<members>FieloPLT__Tracker__c.FieloPRM_Order__c</members>
+		<members>FieloPLT__Transaction__c.FieloPRM_Order__c</members>
 		<name>CustomField</name>
 	</types>
 	<types>
