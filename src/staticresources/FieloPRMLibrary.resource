@@ -31,13 +31,6 @@
             "apiName" : "fieloplt__date__c",
             "value" : "CreatedDate"
           }, {
-            "apiName" : "fieloplt__externalid__c",
-            "value" : "00D7F000005VK5a-a0f7F0000012kAO"
-          }, {
-            "apiName" : "fieloplt__library__c.fieloplt__externalid__c",
-            "value" : "FieloLocal",
-            "refObject" : "fieloplt__library__c"
-          }, {
             "apiName" : "fieloplt__lookupfromtransaction__c",
             "value" : "Lead__c"
           }, {
@@ -53,13 +46,6 @@
               "fieldsValues" : [ {
                 "apiName" : "name",
                 "value" : "Lead > Member__c"
-              }, {
-                "apiName" : "fieloplt__externalid__c",
-                "value" : "00D7F000005VK5a-a007F00000LR1nt"
-              }, {
-                "apiName" : "fieloplt__ruletrigger__c.fieloplt__externalid__c",
-                "value" : "00D7F000005VK5a-a0f7F0000012kAO",
-                "refObject" : "fieloplt__ruletrigger__c"
               }, {
                 "apiName" : "fieloplt__targetemailfield__c",
                 "value" : "Member__r.FieloPLT__Email__c"
@@ -89,13 +75,6 @@
           }, {
             "apiName" : "fieloplt__date__c",
             "value" : "CreatedDate"
-          }, {
-            "apiName" : "fieloplt__externalid__c",
-            "value" : "00D7F000005VK5a-a0f7F0000012kAT"
-          }, {
-            "apiName" : "fieloplt__library__c.fieloplt__externalid__c",
-            "value" : "FieloLocal",
-            "refObject" : "fieloplt__library__c"
           }, {
             "apiName" : "fieloplt__lookupfromtransaction__c",
             "value" : "Opportunity__c"
@@ -113,13 +92,6 @@
                 "apiName" : "name",
                 "value" : "Opportunity > Member__c"
               }, {
-                "apiName" : "fieloplt__externalid__c",
-                "value" : "00D7F000005VK5a-a007F00000LR1ny"
-              }, {
-                "apiName" : "fieloplt__ruletrigger__c.fieloplt__externalid__c",
-                "value" : "00D7F000005VK5a-a0f7F0000012kAT",
-                "refObject" : "fieloplt__ruletrigger__c"
-              }, {
                 "apiName" : "fieloplt__targetemailfield__c",
                 "value" : "Member__r.FieloPLT__Email__c"
               }, {
@@ -149,13 +121,6 @@
             "apiName" : "fieloplt__date__c",
             "value" : "CreatedDate"
           }, {
-            "apiName" : "fieloplt__externalid__c",
-            "value" : "00D7F000005VK5a-a0f7F0000012kAY"
-          }, {
-            "apiName" : "fieloplt__library__c.fieloplt__externalid__c",
-            "value" : "FieloLocal",
-            "refObject" : "fieloplt__library__c"
-          }, {
             "apiName" : "fieloplt__lookupfromtransaction__c",
             "value" : "Order__c"
           }, {
@@ -171,13 +136,6 @@
               "fieldsValues" : [ {
                 "apiName" : "name",
                 "value" : "Order > Member__c"
-              }, {
-                "apiName" : "fieloplt__externalid__c",
-                "value" : "00D7F000005VK5a-a007F00000LR1o3"
-              }, {
-                "apiName" : "fieloplt__ruletrigger__c.fieloplt__externalid__c",
-                "value" : "00D7F000005VK5a-a0f7F0000012kAY",
-                "refObject" : "fieloplt__ruletrigger__c"
               }, {
                 "apiName" : "fieloplt__targetemailfield__c",
                 "value" : "Member__r.FieloPLT__Email__c"
