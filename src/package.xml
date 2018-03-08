@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>*</members>
+		<name>ApexTrigger</name>
+	</types>
+	<types>
+		<members>Lead.Member__c</members>
+		<members>Opportunity.Member__c</members>
+		<members>Order.Member__c</members>
+		<members>FieloPLT__Tracker__c.Lead__c</members>
+		<members>FieloPLT__Transaction__c.Lead__c</members>
+		<members>FieloPLT__Tracker__c.Opportunity__c</members>
+		<members>FieloPLT__Transaction__c.Opportunity__c</members>
+		<members>FieloPLT__Tracker__c.Order__c</members>
+		<members>FieloPLT__Transaction__c.Order__c</members>
+		<name>CustomField</name>
+	</types>
+	<types>
+		<members>*</members>
+		<name>StaticResource</name>
+	</types>
+	<version>40.0</version>
+</Package>
