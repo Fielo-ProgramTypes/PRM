@@ -6,8 +6,8 @@
         <externalId>false</externalId>
         <label>Member</label>
         <referenceTo>FieloPLT__Member__c</referenceTo>
-        <relationshipLabel>Members</relationshipLabel>
-        <relationshipName>FieloPRM_Members</relationshipName>
+        <relationshipLabel>Orders</relationshipLabel>
+        <relationshipName>FieloPRM_Orders</relationshipName>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Lookup</type>

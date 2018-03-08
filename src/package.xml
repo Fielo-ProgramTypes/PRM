@@ -9,10 +9,10 @@
 		<members>Opportunity.FieloPRM_Member__c</members>
 		<members>Order.FieloPRM_Member__c</members>
 		<members>FieloPLT__Tracker__c.FieloPRM_Lead__c</members>
-		<members>FieloPLT__Transaction__c.FieloPRM_Lead__c</members>
 		<members>FieloPLT__Tracker__c.FieloPRM_Opportunity__c</members>
-		<members>FieloPLT__Transaction__c.FieloPRM_Opportunity__c</members>
 		<members>FieloPLT__Tracker__c.FieloPRM_Order__c</members>
+		<members>FieloPLT__Transaction__c.FieloPRM_Lead__c</members>
+		<members>FieloPLT__Transaction__c.FieloPRM_Opportunity__c</members>
 		<members>FieloPLT__Transaction__c.FieloPRM_Order__c</members>
 		<name>CustomField</name>
 	</types>
