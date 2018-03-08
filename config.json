@@ -1,0 +1,12 @@
+{
+  "type":"package",
+  "version":"1.10",
+  "name":"FieloPRP",
+  "dependencies":[
+    {
+      "type":"package",
+      "version":"2.35.2",
+      "name":"FieloPLT"
+    }
+  ]
+}
