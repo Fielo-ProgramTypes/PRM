@@ -42,10 +42,10 @@
             "refObject" : "fieloplt__library__c"
           }, {
             "apiName" : "fieloplt__lookupfromtransaction__c",
-            "value" : "Lead__c"
+            "value" : "FieloPRM_Lead__c"s
           }, {
             "apiName" : "fieloplt__lookupfromtracker__c",
-            "value" : "Lead__c"
+            "value" : "FieloPRM_Lead__c"
           }, {
             "apiName" : "fieloplt__object__c",
             "value" : "Lead"
