@@ -55,7 +55,7 @@
             "records" : [ {
               "fieldsValues" : [ {
                 "apiName" : "name",
-                "value" : "Lead > Member__c"
+                "value" : "Lead > Member"
               }, {
                 "apiName" : "fieloplt__externalid__c",
                 "value" : "00D7F000005VK5a-a007F00000LR1nt"
@@ -71,7 +71,7 @@
                 "value" : "FieloPLT__Member__c"
               }, {
                 "apiName" : "fieloplt__targetmember__c",
-                "value" : "Member__c"
+                "value" : "FieloPRM_Member__c"
               }, {
                 "apiName" : "fieloplt__templatesquantity__c",
                 "value" : "0"
@@ -101,10 +101,10 @@
             "refObject" : "fieloplt__library__c"
           }, {
             "apiName" : "fieloplt__lookupfromtransaction__c",
-            "value" : "Opportunity__c"
+            "value" : "FieloPRM_Opportunity__c"
           }, {
             "apiName" : "fieloplt__lookupfromtracker__c",
-            "value" : "Opportunity__c"
+            "value" : "FieloPRM_Opportunity__c"
           }, {
             "apiName" : "fieloplt__object__c",
             "value" : "Opportunity"
@@ -130,7 +130,7 @@
                 "value" : "FieloPLT__Member__c"
               }, {
                 "apiName" : "fieloplt__targetmember__c",
-                "value" : "Member__c"
+                "value" : "FieloPRM_Member__c"
               }, {
                 "apiName" : "fieloplt__templatesquantity__c",
                 "value" : "0"
@@ -160,10 +160,10 @@
             "refObject" : "fieloplt__library__c"
           }, {
             "apiName" : "fieloplt__lookupfromtransaction__c",
-            "value" : "Order__c"
+            "value" : "FieloPRM_Order__c"
           }, {
             "apiName" : "fieloplt__lookupfromtracker__c",
-            "value" : "Order__c"
+            "value" : "FieloPRM_Order__c"
           }, {
             "apiName" : "fieloplt__object__c",
             "value" : "Order"
@@ -173,7 +173,7 @@
             "records" : [ {
               "fieldsValues" : [ {
                 "apiName" : "name",
-                "value" : "Order > Member__c"
+                "value" : "Order > Member"
               }, {
                 "apiName" : "fieloplt__externalid__c",
                 "value" : "00D7F000005VK5a-a007F00000LR1o3"
@@ -183,13 +183,13 @@
                 "refObject" : "fieloplt__ruletrigger__c"
               }, {
                 "apiName" : "fieloplt__targetemailfield__c",
-                "value" : "Member__r.FieloPLT__Email__c"
+                "value" : "FieloPRM_Member__r.FieloPLT__Email__c"
               }, {
                 "apiName" : "fieloplt__targetemailobject__c",
                 "value" : "FieloPLT__Member__c"
               }, {
                 "apiName" : "fieloplt__targetmember__c",
-                "value" : "Member__c"
+                "value" : "FieloPRM_Member__c"
               }, {
                 "apiName" : "fieloplt__templatesquantity__c",
                 "value" : "0"
