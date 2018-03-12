@@ -101,10 +101,10 @@
             "refObject" : "fieloplt__library__c"
           }, {
             "apiName" : "fieloplt__lookupfromtransaction__c",
-            "value" : "Opportunity__c"
+            "value" : "FieloPRM_Opportunity__c"
           }, {
             "apiName" : "fieloplt__lookupfromtracker__c",
-            "value" : "Opportunity__c"
+            "value" : "FieloPRM_Opportunity__c"
           }, {
             "apiName" : "fieloplt__object__c",
             "value" : "Opportunity"
