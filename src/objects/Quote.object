@@ -6,10 +6,9 @@
         <externalId>false</externalId>
         <label>Member</label>
         <referenceTo>FieloPLT__Member__c</referenceTo>
-        <relationshipLabel>Leads</relationshipLabel>
-        <relationshipName>Leads</relationshipName>
+        <relationshipLabel>Quotes</relationshipLabel>
+        <relationshipName>Quotes</relationshipName>
         <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
         <type>Lookup</type>
     </fields>
 </CustomObject>
