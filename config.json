@@ -1,12 +1,11 @@
 {
-  "type":"package",
-  "version":"1.0",
-  "name":"Fielo Lightining Bolt Package 3",
-  "dependencies":[
-    {
-      "type":"package",
-      "version":"2.51",
-      "name":"FieloPLT"
-    }
-  ]
-}
+    "type":"repository",
+    "version":"master",
+    "dependencies":[
+      {
+        "type":"package",
+        "version":"2.51",
+        "name":"FieloPLT"
+      }
+    ]
+  }
