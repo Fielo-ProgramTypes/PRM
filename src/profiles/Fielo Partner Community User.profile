@@ -96,10 +96,6 @@
         <apexClass>SiteRegisterControllerTest</apexClass>
         <enabled>false</enabled>
     </classAccesses>
-    <classAccesses>
-        <apexClass>TestActivateStatus</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
     <custom>true</custom>
     <userLicense>Partner Community</userLicense>
     <userPermissions>
