@@ -1,6 +1,6 @@
 {
     "type":"repository",
-    "version":"v1.3",
+    "version":"v1.4",
     "dependencies":[
       {
         "type":"package",
