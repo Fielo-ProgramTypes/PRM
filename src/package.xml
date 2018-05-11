@@ -17,7 +17,16 @@
 		<members>FieloPLT__Transaction__c.Opportunity__c</members>
 		<members>FieloPLT__Transaction__c.Order__c</members>
 		<members>FieloPLT__Transaction__c.Quote__c</members>
+		<members>FieloPLT__Settings__c.CurrentMemberId__c</members>
 		<name>CustomField</name>
+	</types>
+	<types>
+        <members>ActiveMember</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+	<types>
+		<members>*</members>
+		<name>ApexClass</name>
 	</types>
 	<types>
 		<members>*</members>
