@@ -1,4 +1,4 @@
-public class activeMemberController {
+public class ActiveMemberController {
     public static String currentMemberId{get;set;}
     
 @auraEnabled    

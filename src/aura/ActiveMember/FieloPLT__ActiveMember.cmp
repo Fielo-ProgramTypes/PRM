@@ -1,4 +1,4 @@
-<aura:component controller="activeMemberController" implements="flexipage:availableForAllPageTypes,forceCommunity:availableForAllPageTypes" 
+<aura:component controller="ActiveMemberController" implements="flexipage:availableForAllPageTypes,forceCommunity:availableForAllPageTypes" 
                 access="global" >
 
     <aura:handler event="FieloPLT:UpdateMemberEvent" action="{!c.activeMember}" />    
